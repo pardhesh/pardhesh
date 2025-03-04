@@ -2,7 +2,7 @@
 <h3 align="center">A passionate CS student from Indian Institute of Information Technology Nagpur</h3>
 
 
-![GIF Description](https://raw.githubusercontent.com/pardhesh/pardhesh/main/gif.gif)
+<img src="https://raw.githubusercontent.com/pardhesh/pardhesh/main/gif.gif" width="400" align="right" />
 
 
 - 🔭 I’m currently working on **AI Chatbots**
