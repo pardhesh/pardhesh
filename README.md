@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/pardhesh/pardhesh/main/coding2.gif" width="325" height="340" align="right" />
 
 
-- 🔭 I’m currently working on *LLMss**
+- 🔭 I’m currently working on **LLMs, Automation**
 
 - 🌱 I’m currently learning **Gen AI, APIs. LLMs**
 
